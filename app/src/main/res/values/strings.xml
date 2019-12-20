@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyexApp</string>
+    <!--DIALER-->
+    <string name="prefs_datasaver_active">data_saver_active</string>
+    <string name="prefs_datasaver_daily_limit">data_saver_daily_limit</string>
+    <string name="prefs_datasaver_daily_limit_header">data_saver_daily_limit_header</string>
+    <string name="prefs_datasaver_daily_limit_header_title">Daily Limit</string>
+    <string name="prefs_datasaver_daily_limit_size">data_saver_daily_limit_size</string>
+    <string name="prefs_data_saver_daily_limit_size_default">30</string>
+    <string name="prefs_data_saver_daily_limit_size_dialog_title">Daily Limit (Size)</string>
+    <string name="prefs_data_saver_daily_limit_size_title">Daily Limit (Size)</string>
+    <string name="prefs_data_saver_daily_limit_title">Daily Limit</string>
+    <string name="prefs_data_saver_header">data_saver_header</string>
+    <string name="prefs_data_saver_header_title">Data Limit</string>
+    <string name="prefs_data_saver_prefs">data_saver_prefs</string>
+    <string name="prefs_data_saver_prefs_title">Data Limit</string>
+    <string name="prefs_pro_settings">pref_key_pro_settings</string>
+    <string name="prefs_pro_settings_title">Pro Settings</string>
+</resources>
